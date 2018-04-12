@@ -9,15 +9,14 @@ This by no means is a test, there is no right or wrong way of tackling this chal
 ### Movie Battle
 
 Build a Movie poster gallery, each poster should link to its trailer.
-
-The Gallery should be responsive going from a single column in mobile to four columns in desktop. You should be able to be sort the posters by release day, and alphabetic order, as well as only show posters for either Star Wars or Marvel.
+The Gallery should be responsive going from a single column in mobile to four columns in desktop. You should be able to sort the posters by release day, and alphabetic order, as well as only show posters for either Star Wars or Marvel.
 
 **All copyrights belong to their respective owners.**
 ![Desktop Gallery](comp/hi5-cc-gallery-desktop.png)
 
 ### Tasks
 
--  Use json data inside of `data/` `||` [api.myjson.com/bins/iapkn](https://api.myjson.com/bins/iapkn) to build the gallery. (for the trailers we've provide youtube IDs)
+- Use the json data inside of `data/` `||` [api.myjson.com/bins/iapkn](https://api.myjson.com/bins/iapkn) to build the gallery. (for the trailers we've provide youtube IDs)
 - Use any framework/s you're comfortable to build the gallery app.
 - Use the comps provided loosely, mostly there to indicate how it should respond in different view ports. Feel free to add your own style to it.
 - If using a build tool please make sure to include your `package.json || yarn.lock` file and any config file `webpack.config.js || gulp.json` ect.
