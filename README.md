@@ -20,6 +20,7 @@ The Gallery should be responsive going from a single column in mobile to four co
 - Use any framework/s you're comfortable to build the gallery app.
 - Use the comps provided loosely, mostly there to indicate how it should respond in different view ports. Feel free to add your own style to it.
 - If using a build tool please make sure to include your `package.json || yarn.lock` file and any config file `webpack.config.js || gulp.json` ect.
+
 **Bonus Points!**
 add some css transitions to and from the gallery page to the trailer page.
 
